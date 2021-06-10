@@ -8,7 +8,7 @@ public class Ex14 {
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("수익을 입력해 주세요.");
-		System.out.print("금익: ");
+		System.out.print("금액: ");
 		double m = sc.nextDouble();
 
 		if (0 <= m && m <= 1000) {
